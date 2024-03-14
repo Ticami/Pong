@@ -14,7 +14,9 @@ Este é um Pong tematizado com futebol, onde você irá jogar contra o Boot, o j
    
 
 ## 🏆 Certificado de Conclusão do Curso
-[imagem_2024-03-14_163329609.png](https://github.com/Ticami/Pong/blob/main/imagem_2024-03-14_163329609.png)
+
+![Mateus Daltro Ticami - Curso ChatGPT e JavaScript_ construa o jogo Pong - Alura-1](https://github.com/Ticami/Pong/assets/113878195/8312b230-aa46-40f3-a78c-93de51ff4c2a)
+
 
 
 
